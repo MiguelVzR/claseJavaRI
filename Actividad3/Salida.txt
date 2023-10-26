@@ -1,0 +1,1 @@
+Empleado{idEmpleado='APX13', cargo='Desarrollador', antiguedadLab=7.0, sueldoSinDesc=24000.34, sueldoFinal=30000.424, Nombre: Miguel Apellido: Vizan Ciudad: Salamanca Fecha de Nacimiento: 14/10/2002}
