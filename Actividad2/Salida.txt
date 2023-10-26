@@ -1,0 +1,1 @@
+Act2Main{apellido='Vizan Ramos', puestoLaboral='Desarrollador', ciudad='Madrid', ComidaFavorita{nombreComida='Miguel', nombre='Manzana'}}
