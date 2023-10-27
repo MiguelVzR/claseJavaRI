@@ -1,0 +1,6 @@
+/*
+Actividad numero 1:
+Diseñar un query que traiga todos los empleados de la tabla Empleados*/
+USE roit;
+
+SELECT * FROM employee;

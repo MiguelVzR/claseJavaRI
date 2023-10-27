@@ -1,0 +1,9 @@
+/* Actividad numero 7:
+Diseñar un query que traiga lo siguiente: conteo de empleados y a que Ciudad pertenecen */
+
+USE roit;
+
+SELECT D.ubicacion AS 'Ciudad', COUNT(E.empId) AS 'Cantidad_de_Empleados'
+FROM employee AS E
+JOIN departaments AS D ON E.dept = D.dept_Name
+GROUP BY D.ubicacion;

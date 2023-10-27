@@ -1,0 +1,6 @@
+/* Actividad numero 2:
+Diseñar un query que traiga los nombres desduplicados de los empleados. */ 
+
+USE roit;
+
+SELECT DISTINCT name FROM employee;

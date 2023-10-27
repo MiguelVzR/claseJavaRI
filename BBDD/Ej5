@@ -1,0 +1,6 @@
+/* Actividad numero 5:
+Diseñar un query que cuente la CANTIDAD de registros en la tabla de Employee*/
+
+USE roit;
+
+SELECT COUNT(empId) FROM employee;

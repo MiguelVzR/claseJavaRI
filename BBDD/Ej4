@@ -1,0 +1,7 @@
+/*Actividad numero 4:
+Diseñar un query que traiga todos los empleados que hayan ingresado en el año 2022 
+y trabajen en el departamento de IT*/
+
+USE roit;
+
+SELECT * FROM employee WHERE year(StartDate) = 2022 AND dept = 'IT';

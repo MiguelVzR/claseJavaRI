@@ -1,0 +1,9 @@
+/* Actividad numero 6:
+Diseñar un query que traiga de la tabla de Employee el Nombre del empleado y el employee id,y,
+de la tabla de Departamentos el depID */
+
+USE roit;
+
+SELECT empId AS 'Id Empleado', name AS 'Nombre', depID AS 'Id Departamento' 
+FROM employee 
+JOIN departaments ON departaments.dept_Name = employee.dept;
