@@ -1,0 +1,33 @@
+Libro:
+idCliente=1
+nombreLibro='Odisea en el Espacio'
+genero='Ficción'
+fechaPublicacion='2023-10-14'
+estadoSolicitud='ENTREGADO'
+Dia actual: 2023-10-30
+Diferencia de dias: 16
+Segmentación: Cliente al día
+
+
+Libro:
+idCliente=2
+nombreLibro='Romeo y Julieta'
+genero='Amor'
+fechaPublicacion='2023-10-16'
+estadoSolicitud='Paso fecha de entrega'
+Dia actual: 2023-10-30
+Diferencia de dias: 14
+Segmentación: El Cliente no está al día
+
+
+Libro:
+idCliente=3
+nombreLibro='El principito'
+genero='Narrativa'
+fechaPublicacion='2023-09-14'
+estadoSolicitud='Paso fecha de entrega'
+Dia actual: 2023-10-30
+Diferencia de dias: 46
+Segmentación: El Cliente no está al día
+
+
