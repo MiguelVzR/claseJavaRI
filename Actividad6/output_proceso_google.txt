@@ -1,0 +1,20 @@
+Aplicación: Android
+Cantidad Usuarios: 300000
+Costo Mensual: 1.0
+Ganancia Neta Mensual: 300000.0
+Total de Usuarios para el Cierre del Año: 3600000
+Aplicación: Bigquery
+Cantidad Usuarios: 50000
+Costo Mensual: 100.0
+Ganancia Neta Mensual: 5000000.0
+Total de Usuarios para el Cierre del Año: 600000
+Aplicación: Looker Studio
+Cantidad Usuarios: 10000
+Costo Mensual: 5.0
+Ganancia Neta Mensual: 50000.0
+Total de Usuarios para el Cierre del Año: 120000
+Aplicación: Youtube Kids
+Cantidad Usuarios: 1000
+Costo Mensual: 2.0
+Ganancia Neta Mensual: 2000.0
+Total de Usuarios para el Cierre del Año: 12000
